@@ -27,6 +27,25 @@ Hatch Time: 6:05 AM<br/>
 End Time: 6:50 AM<br/>
 Coordinates: ``33.668455, -117.982492``
 
+Gym: **Pelicans in Flight**<br/>
+Hatch Time: 6:06 AM<br/>
+End Time: 6:51 AM<br/>
+Coordinates: ``33.677754, -118.000539``
+
+
+Gym: **Harper Park**<br/>
+Hatch Time: 6:16 AM<br/>
+End Time: 7:01 AM<br/>
+Coordinates: ``33.690475, -117.9774870``
+
+
+Gym: **Gisler Park Playground**<br/>
+Hatch Time: 6:18 AM<br/>
+End Time: 7:03 AM<br/>
+Coordinates: ``33.653886, -117.957905``
+
+
+
 
 ## Ho-Oh
 
