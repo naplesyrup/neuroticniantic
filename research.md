@@ -1,14 +1,14 @@
 ﻿# Field Research | 04 July 2020
 #blacklivesmatter<br/>
-[Disclaimers](https://github.com/naplesyrup/neuroticniantic/blob/master/fr040720.md#disclaimers)
+[Disclaimers](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#disclaimers)
 
 ### Items
-* [Rare Candy](https://github.com/naplesyrup/neuroticniantic/blob/master/fr040720.md#rare-candy)
-* [Silver Pinap](https://github.com/naplesyrup/neuroticniantic/blob/master/fr040720.md#silver-pinap)
+* [Rare Candy](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#rare-candy)
+* [Silver Pinap](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#silver-pinap)
 ### Encounters
-- [Larvitar](https://github.com/naplesyrup/neuroticniantic/blob/master/fr040720.md#larvitar)
-- [Spinda](https://github.com/naplesyrup/neuroticniantic/blob/master/fr040720.md#spinda)
-- [Dratini](https://github.com/naplesyrup/neuroticniantic/blob/master/fr040720.md#dratini)
+- [Larvitar](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#larvitar)
+- [Spinda](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#spinda)
+- [Dratini](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#dratini)
 
 ## Larvitar
 
