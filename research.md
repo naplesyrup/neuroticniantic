@@ -105,11 +105,17 @@ PokéStop: **Painted Plant Mural**(HB)<br/>
 Coordinates:  ``33.716369, -118.006954``
 
 
-
 Quest: Earn 5 Hearts with your Buddy<br/>
 Reward: Silver Pinap x2<br/>
 PokéStop: **We Deliver for Laguna Beach**(CM)<br/>
 Coordinates:  ``33.696141, -117.912348``
+
+
+Quest: Earn 5 Hearts with your Buddy<br/>
+Reward: Silver Pinap x2<br/>
+PokéStop: **Playtime Statue**(HB)<br/>
+Coordinates: ``33.705618, -117.997546``
+
 
 ### Disclaimers
 * Some quests may be located outside of Huntington Beach ~ these points of interest are the closest quests found in relation to Huntington Beach for their respective rewards
