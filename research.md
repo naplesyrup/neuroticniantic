@@ -1,6 +1,6 @@
 ﻿# Field Research | 04 July 2020
 #blacklivesmatter<br/>
-*Disclaimer: Some quests may be located outside of Huntington Beach ~ these points of interest are the closest quests found in relation to Huntington Beach for their respective rewards.*
+[Disclaimers](https://github.com/naplesyrup/neuroticniantic/blob/master/fr040720.md#disclaimers)
 
 ### Items
 * [Rare Candy](https://github.com/naplesyrup/neuroticniantic/blob/master/fr040720.md#rare-candy)
@@ -98,4 +98,10 @@ Quest: Earn 5 Hearts with your Buddy<br/>
 Reward: Silver Pinap x2<br/>
 PokéStop: **We Deliver for Laguna Beach**<br/>
 Coordinates:  ``33.696141, -117.912348``
+
+### Disclaimers
+* Some quests may be located outside of Huntington Beach ~ these points of interest are the closest quests found in relation to Huntington Beach for their respective rewards
+* It is not feasible to discover 100% of research available, so keep it in mind that the quests listed here may not be all that are available for that day/reward
+* Some of the coordinates data may be inaccurate, this is provided by a third-party, so I cannot be held accountable if you drive five miles away from where the point of interest actually is
+* And in general, I hold no responsibility for how you use the data listed here
 
