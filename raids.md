@@ -32,6 +32,11 @@ Hatch Time: 6:06 AM<br/>
 End Time: 6:51 AM<br/>
 Coordinates: ``33.677754, -118.000539``
 
+Gym: **Lebard Park**<br/>
+Hatch Time: 6:10 AM<br/>
+End Time: 6:55 AM<br/>
+Coordinates: ``33.664504, -117.9498780``
+
 
 Gym: **Harper Park**<br/>
 Hatch Time: 6:16 AM<br/>
@@ -44,6 +49,17 @@ Hatch Time: 6:18 AM<br/>
 End Time: 7:03 AM<br/>
 Coordinates: ``33.653886, -117.957905``
 
+
+Gym: **Bauer Park**<br/>
+Hatch Time: 6:23 AM<br/>
+End Time: 7:08 AM<br/>
+Coordinates: ``33.652181, -117.9804300``
+
+
+Gym: **Lifeguard Tower Zero**<br/>
+Hatch Time: 6:28 AM<br/>
+End Time: 7:13 AM<br/>
+Coordinates: ``33.655060, -118.0041670``
 
 
 
