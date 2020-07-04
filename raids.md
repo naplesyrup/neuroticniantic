@@ -30,20 +30,10 @@ Coordinates: ``33.668455, -117.982492``
 
 ## Ho-Oh
 
-Gym: **Twinning No. 3 Oil Well**<br/>
-Hatch Time: 6:00 AM<br/>
-End Time: 6:45 AM<br/>
-Coordinates: ``33.683469, -118.0017760``
+None at the moment, check back later.
 
 
 ## Zekrom
 
-Gym: **Ode to Desert Storm**<br/>
-Hatch Time: 6:15 AM<br/>
-End Time: 7:00 AM<br/>
-Coordinates: ``33.677088, -118.0001350``
+None at the moment, check back later.
 
-Gym: **McCallen Park**<br/>
-Hatch Time: 6:30 AM<br/>
-End Time: 7:15 AM<br/>
-Coordinates: ``33.677694, -117.9931790``
