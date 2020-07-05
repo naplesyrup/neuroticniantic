@@ -1,10 +1,9 @@
-﻿# Field Research | 04 July 2020
+﻿# Field Research | 05 July 2020
 #blacklivesmatter<br/>
 [Disclaimers](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#disclaimers)
 
 ### Items
 * [Rare Candy](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#rare-candy)
-* [Silver Pinap](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#silver-pinap)
 ### Encounters
 - [Larvitar](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#larvitar)
 - [Spinda](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#spinda)
@@ -15,106 +14,67 @@
 
 Quest: Make 3 Excellent Curveballs in a Row<br/>
 Reward: Larvitar Encounter<br/>
-PokéStop: **Patricia and Joseph Tolle Bench**(HB)<br/>
-Coordinates: ``33.705351, -118.005027``
+PokéStop: **Outdoor Fireplace**(NB)<br/>
+Coordinates: ``33.664423, -117.872472``
 
-Quest: Make 3 Excellent Curveballs in a Row<br/>
-Reward: Larvitar Encounter<br/>
-PokéStop: **David Dedication Bench**(HB)<br/>
-Coordinates: ``33.668093, -117.981852``
+*None in HB today*
 
 ## Spinda
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Sea Breeze Fountain**(HB)<br/>
-Coordinates: ``33.714359, -118.024743``
+PokéStop: **Starbucks**(Main/Yorktown)(HB)<br/>
+Coordinates: ``33.680907, -118.002785``
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Wall Painting of Spain**(HB)<br/>
-Coordinates: ``33.735218, -117.996537``
+PokéStop: **George C. McCracken Meadow and Play Area**(CP)(HB)<br/>
+Coordinates: ``33.700733, -118.008711``
 
 ## Poliwag
 
 Quest: Catch 5 Weather-Boosted Pokémon<br/>
 Reward: Poliwag Encounter<br/>
-PokéStop: **Lamb Park - Little Kids Playground**(HB)<br/>
-Coordinates: ``33.680079, -117.951447``
-
-Quest: Catch 5 Weather-Boosted Pokémon<br/>
-Reward: Poliwag Encounter<br/>
-PokéStop: **Message Board**(FV)<br/>
-Coordinates: ``33.729756, -117.944671``
+PokéStop: **Donald "Papa" Carlson Bench**(CP)(HB)<br/>
+Coordinates: ``33.697932, -118.010604``
 
 ## Dratini
 
 Quest: Catch a Dragon-type Pokémon<br/>
 Reward: Dratini Encounter<br/>
-PokéStop: **Supermarket Guardian Lion**(WTM)<br/>
-Coordinates: ``33.737822, -117.988008``
+PokéStop: **The Westin Flower Circle**(CM)<br/>
+Coordinates: ``33.691431, -117.884202``
 
-
-Quest: Catch a Dragon-type Pokémon<br/>
-Reward: Dratini Encounter<br/>
-PokéStop: **Wakeham Park**(CM)<br/>
-Coordinates: ``33.692006, -117.900846``
+*None in HB today*
 
 ## Rare Candy
 
-Quest: Make 3 Great Curveball Throws in a row<br/>
-Reward: Rare Candy x3<br/>
-PokéStop: **Huntington Executive Park South East Fountain**(HB)<br/>
-Coordinates: ``33.728119, -117.987484``
+Quest: Make 3 Great Curveball Throws<br/>
+Reward: Rare Candy x1<br/>
+PokéStop: **Fountain Pond**(HB)<br/>
+Coordinates: ``33.680633, -117.997769``
 
 
 Quest: Catch 5 Pokémon<br/>
 Reward: Rare Candy x1<br/>
-PokéStop: **Golden West Sports Column**(HB)<br/>
-Coordinates: ``33.697087, -118.005934``
+PokéStop: **Leaping Dolphin Statue**(HB)<br/>
+Coordinates: ``33.65294, -117.99198``
 
 
 Quest: Catch 5 Pokémon<br/>
 Reward: Rare Candy x1<br/>
-PokéStop: **Baseball Field 6**(FV)<br/>
-Coordinates: ``33.725713, -117.948177``
-
-Quest: Catch 8 Pokémon<br/>
-Reward: Rare Candy x1<br/>
-PokéStop: **Starbucks**(Beach/Yorktown)(HB)<br/>
-Coordinates: ``33.6771, -117.986987``
+PokéStop: **"From the Earth"**(CP)(HB)<br/>
+Coordinates: ``33.70019, -118.007922``
 
 Quest: Catch 5 Pokémon<br/>
 Reward: Rare Candy x1<br/>
-PokéStop: **Sea Bridge Waterfalls**(HB)<br/>
-Coordinates: ``33.671931, -117.98602``
+PokéStop: **HB Murdy Community Center Sign**(HB)<br/>
+Coordinates: ``33.718844, -118.006452``
 
-
-
-## Silver Pinap
-
-Quest: Earn 5 Hearts with your Buddy<br/>
-Reward: Silver Pinap x2<br/>
-PokéStop: **Harriet Wielder Park**(HB)<br/>
-Coordinates:  ``33.685019, -118.022372``
-
-
-Quest: Earn 5 Hearts with your Buddy<br/>
-Reward: Silver Pinap x2<br/>
-PokéStop: **Painted Plant Mural**(HB)<br/>
-Coordinates:  ``33.716369, -118.006954``
-
-
-Quest: Earn 5 Hearts with your Buddy<br/>
-Reward: Silver Pinap x2<br/>
-PokéStop: **We Deliver for Laguna Beach**(CM)<br/>
-Coordinates:  ``33.696141, -117.912348``
-
-
-Quest: Earn 5 Hearts with your Buddy<br/>
-Reward: Silver Pinap x2<br/>
-PokéStop: **Playtime Statue**(HB)<br/>
-Coordinates: ``33.705618, -117.997546``
+Quest: Catch 5 Pokémon<br/>
+Reward: Rare Candy x1<br/>
+PokéStop: **Beach Vollyball Court**(HB)<br/>
+Coordinates: ``33.704093, -118.028513``
 
 
 ### Disclaimers
