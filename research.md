@@ -3,7 +3,7 @@
 [Disclaimers](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#disclaimers)
 
 ### Items
-* Rare Candy & Silver Pinap have been temporarly removed, if you have interest in these quests, let me know & I'll add back
+* Rare Candy & Silver Pinap have been temporarily removed, if you have interest in these quests, let me know & I'll add back
 ### Encounters
 - [Larvitar](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#larvitar)
 - [Spinda](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#spinda)
