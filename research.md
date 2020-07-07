@@ -1,4 +1,4 @@
-﻿# Field Research | 06 July 2020
+﻿# Field Research | 07 July 2020
 #blacklivesmatter<br/>
 [Disclaimers](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#disclaimers)
 
@@ -14,13 +14,8 @@
 
 Quest: Make 3 Excellent Curveballs in a Row<br/>
 Reward: Larvitar Encounter<br/>
-PokéStop: **Fish Fountain**(Irvine)<br/>
-Coordinates: ``33.684946, -117.840113``
-
-Quest: Make 3 Excellent Curveballs in a Row<br/>
-Reward: Larvitar Encounter<br/>
-PokéStop: **Banyan Tree Playground**(Irvine)<br/>
-Coordinates: ``33.665661, -117.813598``
+PokéStop: **Coyote Mosaic Bench**(Irvine)<br/>
+Coordinates: ``33.697859, -117.801739``
 
 *None in HB today*
 
@@ -28,33 +23,60 @@ Coordinates: ``33.665661, -117.813598``
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **I Believe, I Trust, I am Ready**(HB)<br/>
-Coordinates: ``33.702503, -117.984058``
+PokéStop: **Fairview Parks Ecological Blue Prints**(CM)<br/>
+Coordinates: ``33.66252, -117.939804``
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **7 Not Forgotten**(Westminster)<br/>
-Coordinates: ``33.758585, -117.986299``
+PokéStop: **Sewer Slayer Utility Box Art**(CM)<br/>
+Coordinates: ``33.656133, -117.920151``
+
+Quest: Make 5 Great Curveball Throws in a Row<br/>
+Reward: Spinda Encounter<br/>
+PokéStop: **Ginas Pizza Mozaic**(CM)<br/>
+Coordinates: ``33.671842, -117.919696``
+
+Quest: Make 5 Great Curveball Throws in a Row<br/>
+Reward: Spinda Encounter<br/>
+PokéStop: **Thai Princess**(Westminster)<br/>
+Coordinates: ``33.726106, -117.987905``
+
+Quest: Make 5 Great Curveball Throws in a Row<br/>
+Reward: Spinda Encounter<br/>
+PokéStop: **Baseball Field 8**(FV)<br/>
+Coordinates: ``33.725013, -117.950477``
+
+
 
 ## Poliwag
 
 Quest: Catch 5 Weather-Boosted Pokémon<br/>
 Reward: Poliwag Encounter<br/>
-PokéStop: **The Barking Lot**(HB)<br/>
-Coordinates: ``33.691797, -117.992366``
+PokéStop: **Playground A**(HB)<br/>
+Coordinates: ``33.692405, -117.985141``
 
 Quest: Catch 5 Weather-Boosted Pokémon<br/>
 Reward: Poliwag Encounter<br/>
-PokéStop: **Guardian Center Fountain**(HB)<br/>
-Coordinates: ``33.714797, -117.990117``
+PokéStop: **Shepherd of Man**(HB)<br/>
+Coordinates: ``33.702651, -117.988652``
 
 
 ## Dratini
 
 Quest: Catch a Dragon-type Pokémon<br/>
 Reward: Dratini Encounter<br/>
-PokéStop: **Caught Your Ripping**(CM)<br/>
-Coordinates: ``33.634076, -117.925428``
+PokéStop: **St. Paul American Coptic Orthodox Church**(Irvine)<br/>
+Coordinates: ``33.707978, -117.803942``
+
+Quest: Catch a Dragon-type Pokémon<br/>
+Reward: Dratini Encounter<br/>
+PokéStop: **Cypress Park North Baseball Field**(Irvine)<br/>
+Coordinates: ``33.69155, -117.764058``
+
+Quest: Catch a Dragon-type Pokémon<br/>
+Reward: Dratini Encounter<br/>
+PokéStop: **Spectrum Chimney Column**(Irvine)<br/>
+Coordinates: ``33.649788, -117.745047``
 
 *None in HB today*
 
