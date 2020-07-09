@@ -14,71 +14,91 @@
 
 Quest: Make 3 Excellent Curveballs in a Row<br/>
 Reward: Larvitar Encounter<br/>
-PokéStop: **Coyote Mosaic Bench**(Irvine)<br/>
-Coordinates: ``33.697859, -117.801739``
-
-*None in HB today*
+PokéStop: **Zubie's Dry Dock Classic Restaurant**(HB)<br/>
+Coordinates: ``33.673106, -117.969648``
 
 ## Spinda
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Fairview Parks Ecological Blue Prints**(CM)<br/>
-Coordinates: ``33.66252, -117.939804``
+PokéStop: **Higher Flyers Monument**(HB)<br/>
+Coordinates: ``33.698488, -118.006649``
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Sewer Slayer Utility Box Art**(CM)<br/>
-Coordinates: ``33.656133, -117.920151``
+PokéStop: **Patricia and Joseph Tolle Bench**(HB)<br/>
+Coordinates: ``33.705351, -118.005027``
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Ginas Pizza Mozaic**(CM)<br/>
-Coordinates: ``33.671842, -117.919696``
+PokéStop: **Original HB City Hall Seals**(HB)<br/>
+Coordinates: ``33.710557, -118.000204``
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Thai Princess**(Westminster)<br/>
-Coordinates: ``33.726106, -117.987905``
+PokéStop: **Shorelife Church**(HB)<br/>
+Coordinates: ``33.736971, -118.027841``
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Baseball Field 8**(FV)<br/>
-Coordinates: ``33.725013, -117.950477``
+PokéStop: **Capones Fountain**(HB)<br/>
+Coordinates: ``33.676539, -117.987238``
 
+Quest: Make 5 Great Curveball Throws in a Row<br/>
+Reward: Spinda Encounter<br/>
+PokéStop: **Seely Park Playground**(HB)<br/>
+Coordinates: ``33.646074, -117.95812``
+
+Quest: Make 5 Great Curveball Throws in a Row<br/>
+Reward: Spinda Encounter<br/>
+PokéStop: **Alluvial Woodlands Trail Marker**(HB)<br/>
+Coordinates: ``33.658805, -117.945962``
+
+Quest: Make 5 Great Curveball Throws in a Row<br/>
+Reward: Spinda Encounter<br/>
+PokéStop: **Huntington Executive Park East Bridges**(HB)<br/>
+Coordinates: ``33.729006, -117.987556``
 
 
 ## Poliwag
 
 Quest: Catch 5 Weather-Boosted Pokémon<br/>
 Reward: Poliwag Encounter<br/>
-PokéStop: **Playground A**(HB)<br/>
-Coordinates: ``33.692405, -117.985141``
+PokéStop: **Sunset Palmtree Junction Box**(HB)<br/>
+Coordinates: ``33.658512, -118.00352``
 
 Quest: Catch 5 Weather-Boosted Pokémon<br/>
 Reward: Poliwag Encounter<br/>
-PokéStop: **Shepherd of Man**(HB)<br/>
-Coordinates: ``33.702651, -117.988652``
+PokéStop: **Fit Trail Marker**(HB)<br/>
+Coordinates: ``33.693963, -118.046345``
+
+Quest: Catch 5 Weather-Boosted Pokémon<br/>
+Reward: Poliwag Encounter<br/>
+PokéStop: **Ephemeral Wetlands and Plants on the Bolsa Chica Mesa**(HB)<br/>
+Coordinates: ``33.710766, -118.046285``
 
 
 ## Dratini
 
 Quest: Catch a Dragon-type Pokémon<br/>
 Reward: Dratini Encounter<br/>
-PokéStop: **St. Paul American Coptic Orthodox Church**(Irvine)<br/>
-Coordinates: ``33.707978, -117.803942``
+PokéStop: **Armstrong Garden Statue**(HB)<br/>
+Coordinates: ``33.707533, -118.006294``
 
 Quest: Catch a Dragon-type Pokémon<br/>
 Reward: Dratini Encounter<br/>
-PokéStop: **Cypress Park North Baseball Field**(Irvine)<br/>
-Coordinates: ``33.69155, -117.764058``
+PokéStop: **Vista View Park Picnic Area**(FV)<br/>
+Coordinates: ``33.727315, -117.967762``
 
 Quest: Catch a Dragon-type Pokémon<br/>
 Reward: Dratini Encounter<br/>
-PokéStop: **Spectrum Chimney Column**(Irvine)<br/>
-Coordinates: ``33.649788, -117.745047``
+PokéStop: **Clifford D. Travioli**(CM)<br/>
+Coordinates: ``33.671999, -117.91051``
 
-*None in HB today*
+Quest: Catch a Dragon-type Pokémon<br/>
+Reward: Dratini Encounter<br/>
+PokéStop: **St John the Baptist Catholic Church**(CM)<br/>
+Coordinates: ``33.679674, -117.900146``
 
 
 ### Disclaimers
