@@ -1,4 +1,4 @@
-﻿# Field Research | 07 July 2020
+﻿# Field Research | 09 July 2020
 #blacklivesmatter<br/>
 [Disclaimers](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#disclaimers)
 
