@@ -1,4 +1,4 @@
-﻿# Field Research | 21 July 2020
+﻿# Field Research | 22 July 2020
 #blacklivesmatter<br/>
 [Disclaimers](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#disclaimers)
 
@@ -15,42 +15,58 @@
 
 Quest: Make 3 Excellent Curveballs in a Row<br/>
 Reward: Larvitar Encounter<br/>
-PokéStop: **Doug Clemens Dedication**(HB)<br/>
-Coordinates: ``33.669254, -118.019468``
+PokéStop: **Welcome to Mesa-Birch Park Plaque**(CM)<br/>
+Coordinates: ``33.656079, -117.879109``
 
-
-Quest: Make 3 Excellent Curveballs in a Row<br/>
-Reward: Larvitar Encounter<br/>
-PokéStop: **Mile Square Regional Park**(FV)<br/>
-Coordinates: ``33.718465, -117.938783``
+*None in HB today*
 
 ## Spinda
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Baseball Batter Mural**(HB)<br/>
-Coordinates: ``33.699321, -118.000742``
+PokéStop: **Nature Observation and Playground Central Park**(HB)(CP)<br/>
+Coordinates: ``33.705732, -118.005856``
+
+Quest: Make 5 Great Curveball Throws in a Row<br/>
+Reward: Spinda Encounter<br/>
+PokéStop: **Shoe City Surfer**(HB)<br/>
+Coordinates: ``33.715328, -117.988531``
+
+Quest: Make 5 Great Curveball Throws in a Row<br/>
+Reward: Spinda Encounter<br/>
+PokéStop: **Glenn Parker Pillar**(HB)(GWC)<br/>
+Coordinates: ``33.73513, -118.003069``
+
+Quest: Make 5 Great Curveball Throws in a Row<br/>
+Reward: Spinda Encounter<br/>
+PokéStop: **Amigo Animal Hospital Veterinarian Symbol**(WM)<br/>
+Coordinates: ``33.760012, -118.033497``
+
+Quest: Make 5 Great Curveball Throws in a Row<br/>
+Reward: Spinda Encounter<br/>
+PokéStop: **Talbert Nature Preserve**(HB/CM)<br/>
+Coordinates: ``33.664972, -117.945609``
 
 
 ## Poliwag
 
 Quest: Catch 5 Weather-Boosted Pokémon<br/>
 Reward: Poliwag Encounter<br/>
-PokéStop: **Perry Park Playground**(HB)<br/>
-Coordinates: ``33.68505, -117.984962``
+PokéStop: **HB Rescue Plaza Mosaic**(HB)<br/>
+Coordinates: ``33.654252, -117.998698``
 
 Quest: Catch 5 Weather-Boosted Pokémon<br/>
 Reward: Poliwag Encounter<br/>
-PokéStop: **Bushard Park Playground**(HB)<br/>
-Coordinates: ``33.677262, -117.959256``
+PokéStop: **GWC Baseball Field**(HB)(GWC)<br/>
+Coordinates: ``33.737117, -118.001204``
 
 
 ## Dratini
 
 Quest: Catch a Dragon-type Pokémon<br/>
 Reward: Dratini Encounter<br/>
-PokéStop: **Jim Hayden Memorial Bench**(Irvine)<br/>
-Coordinates: ``33.681211, -117.794684``
+PokéStop: **Renaissance Fountain**(Orange)<br/>
+Coordinates: ``33.788338, -117.883712``
 
 *None in HB today*
 
@@ -59,8 +75,8 @@ Coordinates: ``33.681211, -117.794684``
 
 Quest: Give Your Buddy 3 Treats<br/>
 Reward: Dratini Encounter<br/>
-PokéStop: **Helme-Worthy Building**(HB)<br/>
-Coordinates: ``33.658923, -118.002443``
+PokéStop: **Zubie's Dry Dock Classic Restaurant**(HB)<br/>
+Coordinates: ``33.673106, -117.969648``
 
 
 ### Disclaimers
