@@ -1,4 +1,4 @@
-﻿# Field Research | 22 July 2020
+﻿# Field Research | 23 July 2020
 #blacklivesmatter<br/>
 [Disclaimers](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#disclaimers)
 
@@ -9,74 +9,58 @@
 - [Spinda](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#spinda)
 - [Poliwag](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#poliwag)
 - [Dratini](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#dratini)
-- [Snorlax](https://github.com/naplesyrup/neuroticniantic/blob/master/research.md#snorlax)
 
 ## Larvitar
 
 Quest: Make 3 Excellent Curveballs in a Row<br/>
 Reward: Larvitar Encounter<br/>
-PokéStop: **Welcome to Mesa-Birch Park Plaque**(CM)<br/>
-Coordinates: ``33.656079, -117.879109``
-
-*None in HB today*
+PokéStop: **Scott And Vi Cowden Honorary Beach Bench**(HB)<br/>
+Coordinates: ``33.665437, -118.013864``
 
 ## Spinda
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Nature Observation and Playground Central Park**(HB)(CP)<br/>
-Coordinates: ``33.705732, -118.005856``
+PokéStop: **St. Peter**(HB)<br/>
+Coordinates: ``33.703213, -117.982841``
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Shoe City Surfer**(HB)<br/>
-Coordinates: ``33.715328, -117.988531``
+PokéStop: **Millstream**(HB)<br/>
+Coordinates: ``33.71594, -117.99201``
 
 Quest: Make 5 Great Curveball Throws in a Row<br/>
 Reward: Spinda Encounter<br/>
-PokéStop: **Glenn Parker Pillar**(HB)(GWC)<br/>
-Coordinates: ``33.73513, -118.003069``
-
-Quest: Make 5 Great Curveball Throws in a Row<br/>
-Reward: Spinda Encounter<br/>
-PokéStop: **Amigo Animal Hospital Veterinarian Symbol**(WM)<br/>
-Coordinates: ``33.760012, -118.033497``
-
-Quest: Make 5 Great Curveball Throws in a Row<br/>
-Reward: Spinda Encounter<br/>
-PokéStop: **Talbert Nature Preserve**(HB/CM)<br/>
-Coordinates: ``33.664972, -117.945609``
+PokéStop: **Talbert Home**(FV)<br/>
+Coordinates: ``33.700479, -117.96308``
 
 
 ## Poliwag
 
 Quest: Catch 5 Weather-Boosted Pokémon<br/>
 Reward: Poliwag Encounter<br/>
-PokéStop: **HB Rescue Plaza Mosaic**(HB)<br/>
-Coordinates: ``33.654252, -117.998698``
+PokéStop: **Discovery Well Park Plaque**(HB)<br/>
+Coordinates: ``33.684595, -118.010772``
 
 Quest: Catch 5 Weather-Boosted Pokémon<br/>
 Reward: Poliwag Encounter<br/>
-PokéStop: **GWC Baseball Field**(HB)(GWC)<br/>
-Coordinates: ``33.737117, -118.001204``
+PokéStop: **Amphitheater in the Woods**(HB)(CP)<br/>
+Coordinates: ``33.703412, -118.002923``
 
 
 ## Dratini
 
 Quest: Catch a Dragon-type Pokémon<br/>
 Reward: Dratini Encounter<br/>
-PokéStop: **Renaissance Fountain**(Orange)<br/>
-Coordinates: ``33.788338, -117.883712``
+PokéStop: **Fountain Plaza Park**(FV)<br/>
+Coordinates: ``33.696488, -117.952756``
+
+Quest: Catch a Dragon-type Pokémon<br/>
+Reward: Dratini Encounter<br/>
+PokéStop: **Congregation B'nai Tzedek**(FV)<br/>
+Coordinates: ``33.701887, -117.95973``
 
 *None in HB today*
-
-
-## Snorlax
-
-Quest: Give Your Buddy 3 Treats<br/>
-Reward: Dratini Encounter<br/>
-PokéStop: **Zubie's Dry Dock Classic Restaurant**(HB)<br/>
-Coordinates: ``33.673106, -117.969648``
 
 
 ### Disclaimers
